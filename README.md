@@ -6,6 +6,13 @@
 <p>This Power BI project presents an in-depth sales performance analysis for a fictional cycling company (Adventure Works), demonstrating strong capabilities in data analytics, visualization, and business intelligence. The dashboards and reports guide users through key insights, uncovering trends in customer segmentation, sales by category, seasonal trends, and regional performance.</p>
 
 
+<h2>Key Metrics</h2>
+
+- <b>Revenue: Total revenue made from sales.</b> 
+- <b>Sales Growth: Changes in sales revenue overtime.</b>
+- <b>Sales Productivity: Evaluates sales team performance.</b> 
+- <b>Spending Patterns: Evaluates customer spending patterns.</b>
+
 <h2>Key Skills</h2>
 
 - <b>Data Governance & Quality: Ensuring data accuracy, consistency, and integrity through proper ETL processes.</b> 
